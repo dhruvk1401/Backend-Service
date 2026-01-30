@@ -1,0 +1,1 @@
+{"version":3,"file":"RedisClient.d.ts","sourceRoot":"","sources":["../src/RedisClient.ts"],"names":[],"mappings":"AAGA,qBAAa,WAAW;IACtB,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAc;IACrC,OAAO,CAAC,SAAS,CAAS;IAC1B,OAAO,CAAC,MAAM,CAAQ;;IAkBf,WAAW,IAAI,IAAI;CAK3B"}
